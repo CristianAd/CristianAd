@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cristian</h1>
 <h3 align="center">A passionate frontend developer from Ecuador</h3>
 
-- 🔭 I’m currently working on **Freelance own projects**
+- 🔭 I’m currently working on **Freelance or own projects**
 
 - 🌱 I’m currently learning **JS, REACT, PYTHON**
 
